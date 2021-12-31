@@ -1,5 +1,5 @@
 # Commands
-Comandos de re-uso que tenho usado ao longo do tempo para fins diversos e não tenho muito tempo para re-aprender, então
+Comandos de re-uso que tenho usado ao longo do tempo para fins diversos e não tenho muito tempo para re-aprender e tô velho pra memorizar, então
 
 "Re use it"
 
